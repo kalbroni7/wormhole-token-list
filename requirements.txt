@@ -21,3 +21,4 @@ tabulate==0.8.9
 tinycss2==1.1.1
 urllib3==1.25.8
 webencodings==0.5.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
